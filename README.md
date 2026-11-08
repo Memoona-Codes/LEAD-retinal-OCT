@@ -90,5 +90,3 @@ Experiments ran on one NVIDIA A100 (40 GB). `requirements.txt` lists the main pa
 * Neither pool gave a consistent gain over real images only (Table 5).
 * Real-image results (Tables 2 and 3) use no synthetic images and are not affected by either point.
 
-## Citation
-Sami, M., Hajati, F., & Chiong, R. LEAD: a leakage-free framework for adapting retinal foundation models to Alzheimer's disease detection from OCT. Manuscript under review.
