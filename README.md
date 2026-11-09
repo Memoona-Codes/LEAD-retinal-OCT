@@ -90,3 +90,4 @@ Experiments ran on one NVIDIA A100 (40 GB). `requirements.txt` lists the main pa
 * Neither pool gave a consistent gain over real images only (Table 5).
 * Real-image results (Tables 2 and 3) use no synthetic images and are not affected by either point.
 
+**AI assistance.** Claude was used to help write and debug parts of the code. All experiments were designed, run and checked by the authors.
